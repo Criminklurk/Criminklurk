@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kraken.svg" alt="Criminklurk" width="100%">
+  <img src="banner.svg" alt="Criminklurk" width="100%">
 </p>
 
 <p align="center">
