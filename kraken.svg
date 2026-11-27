@@ -6596,8 +6596,8 @@
 <text x="416" y="243.2" font-size="7.71" fill="#e5383b" textLength="414" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ╚═════╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝     ╚═╝ ╚═╝ ╚═╝  ╚═══╝ ╚═╝  ╚═╝ ╚══════╝  ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═╝</text>
 </g>
 <text class="t sub" x="416" y="273">INK  IN  EVERY  SYSTEM</text>
-<g class="ln" style="animation-delay:0.0s"><text class="t" x="416" y="326" font-size="15" fill="#e6e6e6">Estudiante de Ingeniería de Sistemas</text></g>
-<g class="ln" style="animation-delay:1.6s"><text class="t" x="416" y="362" font-size="15" fill="#8b949e">Aprendiendo a construir software</text></g>
+<g class="ln" style="animation-delay:0.0s"><text class="t" x="416" y="326" font-size="15" fill="#e6e6e6">Systems Engineering Student</text></g>
+<g class="ln" style="animation-delay:1.6s"><text class="t" x="416" y="362" font-size="15" fill="#8b949e">Learning to build software</text></g>
 <g class="ln" style="animation-delay:3.2s"><text class="t" x="416" y="398" font-size="15" fill="#e5383b">always watching from the dark...</text></g>
 <rect class="cur" x="416" y="422" width="9" height="16"/>
 </svg>
